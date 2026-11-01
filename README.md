@@ -1,4 +1,4 @@
-# Post Flow - Real-time Human Pose Detection
+# Pose Flow - Real-time Human Pose Detection
 
 ## Introduction
 Real-time human pose detection with two optimized versions:
